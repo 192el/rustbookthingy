@@ -1,0 +1,1 @@
+C:\Users\samue\IdeaProjects\rustbookthingys\projects\minigrep\target\debug\minigrep.exe: C:\Users\samue\IdeaProjects\rustbookthingys\projects\minigrep\src\lib.rs C:\Users\samue\IdeaProjects\rustbookthingys\projects\minigrep\src\main.rs
