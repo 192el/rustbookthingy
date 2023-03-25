@@ -1,1 +1,0 @@
-C:\Users\samue\IdeaProjects\rustbookthingys\projects\hello\target\debug\hello.exe: C:\Users\samue\IdeaProjects\rustbookthingys\projects\hello\src\lib.rs C:\Users\samue\IdeaProjects\rustbookthingys\projects\hello\src\main.rs

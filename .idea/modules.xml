@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/rustbookthingys.iml" filepath="$PROJECT_DIR$/rustbookthingys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rustbookthingy.iml" filepath="$PROJECT_DIR$/rustbookthingy.iml" />
     </modules>
   </component>
 </project>
